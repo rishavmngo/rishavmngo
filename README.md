@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 <img src="images/art.png">
-<a href="https://github.com/Rishav-mngo/vim/blob/master/vimrc_for_wsl">Mr Vimrc</a>
+<a href="https://github.com/Rishav-mngo/vim/blob/master/vimrc_for_wsl">My Vimrc</a>
 
-Here are some ideas to get you started:
+#### My Learnings
+1. React.js
+2. Node.js
+3. c/c++
+4. Python
+5. Java Script
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning REACT.js
+##### I also love to make 3d renders sometimes
+<img src="images/powerbank.png">
