@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Rishav Raj, an udergraduate who fall in love with the idea of Open Source.
+#### Interested in 
+- Web Development
+- Low level programming 
+- Graphics programming
 
 <img src="images/art.png">
 <a href="https://github.com/Rishav-mngo/vim/blob/master/vimrc_for_wsl">My Vimrc</a>
