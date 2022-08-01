@@ -14,6 +14,7 @@ I am Rishav Raj, an udergraduate who fall in love with the idea of Open Source.
 3. c/c++
 4. Python
 5. Java Script
+6. Elisp
 
 ##### I also love to make 3d renders.
 <img src="images/github.gif">
