@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Rishav Raj, an engineer who fall in love with the computers.
+I am Rishav Raj, an engineer who loves technology.
 #### Interested in 
 - Web Development
 - Low level programming 
