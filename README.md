@@ -10,12 +10,13 @@ I am Rishav Raj, an engineer who loves technology.
 
 #### Technologies I Work With
 1. Golang
-2. Next.js
-3. Node.js
-4. c/c++
-5. Python
-6. Typescript
-7. Elisp
+2. Java
+3. Next.js
+4. Node.js
+5. c/c++
+6. Python
+7. Typescript
+8. Elisp
 
 ##### I also love to make 3d renders.
 <img src="images/github.gif">
